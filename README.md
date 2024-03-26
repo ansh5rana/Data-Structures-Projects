@@ -1,3 +1,3 @@
 # Projects
 
-A collection of java projects.
+A collection of projects written in Java. 
