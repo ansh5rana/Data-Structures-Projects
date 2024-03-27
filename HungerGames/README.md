@@ -1,0 +1,3 @@
+# Hunger Games: A Binary Search Tree Simulation
+
+Inspired by the dystopian universe of the Hunger Games, this prjects transports users to the fictional world of Panem, where the Hunger Games, an event in which participants compete in a fight to the death, is an annual occurrence. Unlike the original focus on survival, strategy, and the socio-political tensions, this project focuses on using binary search trees to manage the Hunger Games. This unique approach not only engages students with a popular cultural reference but also deepens their understanding of binary search trees and their applications in organizing and accessing data efficiently.
